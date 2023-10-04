@@ -1,2 +1,1 @@
-# Pizza
-Training tutorial 1 
+# pizza
